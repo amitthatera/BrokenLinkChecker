@@ -1,0 +1,27 @@
+{"properties": [
+  {
+    "name": "connection.timeout",
+    "type": "java.lang.String",
+    "description": "A description for 'connection.timeout'"
+  },
+  {
+    "name": "request.timeout",
+    "type": "java.lang.String",
+    "description": "A description for 'request.timeout'"
+  },
+  {
+    "name": "socket.timeout",
+    "type": "java.lang.String",
+    "description": "A description for 'socket.timeout'"
+  },
+  {
+    "name": "crawl.max-depth",
+    "type": "java.lang.String",
+    "description": "A description for 'crawl.max-depth'"
+  },
+  {
+    "name": "logs.file.path",
+    "type": "java.lang.String",
+    "description": "A description for 'logs.file.path'"
+  }
+]}
